@@ -29,6 +29,7 @@
 			<div class="col-md-4" >
 				<div class="form-group">
 					<label>First Name</label>
+					<label>Check</label>
 					<input class="form-control" type="text" placeholder="First Name" id="fname" required>
 				</div>
 	            <div class="form-group">
