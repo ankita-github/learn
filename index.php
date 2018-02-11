@@ -19,7 +19,7 @@
     <style type="text/css">
     	.popover-content{color: red;}
     </style>
-    
+
 </head>
 <body>
 	<form>
@@ -27,6 +27,7 @@
 			<div class="col-md-4" >
 				<div class="form-group">
 					<label>First Name</label>
+					<!-- Changes made -->
 					<input class="form-control" type="text" placeholder="First Name" id="fname" required>
 				</div>
 	            <div class="form-group">
@@ -42,7 +43,7 @@
 				<div class="form-group">
 					<label>Phone Number</label>
 					<input type="text" id="phone_number" placeholder="9999999999" class="form-control" >
-					
+
 				</div>
 			</div>
 			<div class="col-md-4">
@@ -64,11 +65,11 @@
 
 			</div>
 		</div>
-	
-		
+
+
 
 		<div class="col-md-10" align="left" style="padding-left:6%;">
-			<button id="submit" type="button" value="Submit" class="btn btn-success btn-lg">Submit</button> 
+			<button id="submit" type="button" value="Submit" class="btn btn-success btn-lg">Submit</button>
 		</div>
 
 	</form>
@@ -110,8 +111,8 @@
 				$('#phone_number').popover('show');
 			}
 		})
-		$('#check').click(function(){   
-	        event.preventDefault();         
+		$('#check').click(function(){
+	        event.preventDefault();
 	            if ($('#check').is(':checked')) {
 	            	$('#checktext').hide();
 
