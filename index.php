@@ -15,9 +15,9 @@
     <link href="./css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
     <!-- Load jQuery UI CSS  -->
     <link rel="stylesheet" href="css/jquery-ui.css" />
-
+    <!--useless mondal -->
     <style type="text/css">
-    	.popover-content{color: black;}
+    	.popover-content{color: blue;}
     </style>
     
 </head>
