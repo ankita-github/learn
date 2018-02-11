@@ -18,7 +18,7 @@
 
     <style type="text/css">
 
-    	.popover-content{color: black;}
+    	.popover-content{color: #FFFFFF;}
 
     </style>
 
