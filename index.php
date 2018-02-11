@@ -17,7 +17,9 @@
     <link rel="stylesheet" href="css/jquery-ui.css" />
 
     <style type="text/css">
-    	.popover-content{color: green;}
+
+    	.popover-content{color: black;}
+
     </style>
     
 </head>
