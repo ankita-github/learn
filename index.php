@@ -17,7 +17,9 @@
     <link rel="stylesheet" href="css/jquery-ui.css" />
 
     <style type="text/css">
-    	.popover-content{color: red;}
+
+    	.popover-content{color: black;}
+
     </style>
 
 </head>
@@ -27,7 +29,6 @@
 			<div class="col-md-4" >
 				<div class="form-group">
 					<label>First Name</label>
-					<!-- Changes made -->
 					<input class="form-control" type="text" placeholder="First Name" id="fname" required>
 				</div>
 	            <div class="form-group">
