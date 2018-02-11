@@ -16,10 +16,9 @@
     <!-- Load jQuery UI CSS  -->
     <link rel="stylesheet" href="css/jquery-ui.css" />
 
+    <!--useless mondal -->
     <style type="text/css">
-
     	.popover-content{color: #FFFFFF;}
-
     </style>
 
 </head>
