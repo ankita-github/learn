@@ -14,4 +14,6 @@
      die('Could not connect: ' . mysql_error());
    }
    echo 'Connected successfully'."<br/>";
+
+   echo 'Test';
    ?>
